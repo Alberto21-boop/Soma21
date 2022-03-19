@@ -1,0 +1,15 @@
+C:\Users\Àlberto Barbòsa\source\repos\Soma21\Soma21\bin\Debug\net6.0\Soma21.exe
+C:\Users\Àlberto Barbòsa\source\repos\Soma21\Soma21\bin\Debug\net6.0\Soma21.deps.json
+C:\Users\Àlberto Barbòsa\source\repos\Soma21\Soma21\bin\Debug\net6.0\Soma21.runtimeconfig.json
+C:\Users\Àlberto Barbòsa\source\repos\Soma21\Soma21\bin\Debug\net6.0\Soma21.dll
+C:\Users\Àlberto Barbòsa\source\repos\Soma21\Soma21\bin\Debug\net6.0\ref\Soma21.dll
+C:\Users\Àlberto Barbòsa\source\repos\Soma21\Soma21\bin\Debug\net6.0\Soma21.pdb
+C:\Users\Àlberto Barbòsa\source\repos\Soma21\Soma21\obj\Debug\net6.0\Soma21.csproj.AssemblyReference.cache
+C:\Users\Àlberto Barbòsa\source\repos\Soma21\Soma21\obj\Debug\net6.0\Soma21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Àlberto Barbòsa\source\repos\Soma21\Soma21\obj\Debug\net6.0\Soma21.AssemblyInfoInputs.cache
+C:\Users\Àlberto Barbòsa\source\repos\Soma21\Soma21\obj\Debug\net6.0\Soma21.AssemblyInfo.cs
+C:\Users\Àlberto Barbòsa\source\repos\Soma21\Soma21\obj\Debug\net6.0\Soma21.csproj.CoreCompileInputs.cache
+C:\Users\Àlberto Barbòsa\source\repos\Soma21\Soma21\obj\Debug\net6.0\Soma21.dll
+C:\Users\Àlberto Barbòsa\source\repos\Soma21\Soma21\obj\Debug\net6.0\ref\Soma21.dll
+C:\Users\Àlberto Barbòsa\source\repos\Soma21\Soma21\obj\Debug\net6.0\Soma21.pdb
+C:\Users\Àlberto Barbòsa\source\repos\Soma21\Soma21\obj\Debug\net6.0\Soma21.genruntimeconfig.cache
